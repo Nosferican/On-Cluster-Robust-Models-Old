@@ -1,0 +1,3 @@
+# On Cluster Robust Models
+
+Empirical work commonly deals with heterogeneous in treatment populations with potential clustered sampling design. Current approaches to overcome issues that arise in these cases include weighted least squares, fixed effects models, and cluster robust variance covariance estimators. However, the current solutions often offer sub-optimal performance or practitioners misuse them. This study examines possible disadvantages to using non-cluster robust models and alternative solutions. Some of the contributions include a framework to understand and develop cluster robust models with new advise for practitioners and practical considerations. (JEL C01)
