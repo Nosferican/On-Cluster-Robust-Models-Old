@@ -1,0 +1,11 @@
+name = "OnClusterRobustModels"
+uuid = "8919d296-a307-11e8-0833-8556e06bce76"
+authors = ["José Bayoán Santiago Calderón <naoyabpr@gmail.com>"]
+version = "0.0.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
